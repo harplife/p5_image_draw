@@ -3,7 +3,7 @@ let clicked = false;
 let clickedColor;
 
 function preload() {
-  img = loadImage('./imgs/lapislazuli.jpg');
+  img = loadImage('./imgs/test_img_1.jpg');
 }
 
 function setup() {

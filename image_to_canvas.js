@@ -8,7 +8,7 @@ function preload() {
 
 function setup() {
   createCanvas(600, 600);
-  //img = createImg('./imgs/lapislazuli.jpg');
+  //img = createImg('./imgs/test_img_1.jpg');
 }
 
 function draw() {
